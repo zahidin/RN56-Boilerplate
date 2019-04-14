@@ -9,14 +9,6 @@ export default class index extends Component {
       Navigation.push(this.props.componentId,{
          component:{
             ...ABOUT.component,
-            options:{
-              topBar:{
-                  visible:true,
-                  title:{
-                      text:'About me'
-                  }
-              }
-          }
          }
       })
   }

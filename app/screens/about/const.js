@@ -1,17 +1,21 @@
 const customTopBar = {
-    background:{
-        color:'#2b70c9'
-    },
+    visible:true,
     title:{
         text:'About Me'
     },
+}
+const customBottomTabs = {
+    visible: false, 
+    drawBehind: true, 
+    animate: true
 }
 export const ABOUT = {
     screen: 'About',
     component:{
         name:'About',
         options:{
-            topBar:customTopBar
+            topBar:customTopBar,
+            bottomTabs:customBottomTabs
         }
     },
     
