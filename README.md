@@ -53,4 +53,4 @@ $ react-native run-ios
 
 ## Preview
 
-![](https://i.ibb.co/879sT0D/Screenshot-1555223347.png)
+![](https://i.ibb.co/HDxd6kX/Screen-Shot-2019-04-14-at-13-41-30.png)
