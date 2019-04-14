@@ -50,3 +50,7 @@ $ react-native run-android
 #or
 $ react-native run-ios
 ```
+
+## Preview
+
+![](https://i.ibb.co/879sT0D/Screenshot-1555223347.png)
