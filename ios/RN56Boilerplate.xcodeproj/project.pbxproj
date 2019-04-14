@@ -40,14 +40,12 @@
 		31878CA69E024740B8ADB562 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F62B442BAE2433BA900B287 /* EvilIcons.ttf */; };
 		31EE6C0F47C4406B8265EA9F /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26DC42636E1047D982C26CA7 /* Zocial.ttf */; };
 		3608635F66BC4F2D99BAC26F /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 618EA5372EB84F648BEECC05 /* MaterialIcons.ttf */; };
-		3AFD7549AA8B6F1D79C36DB3 /* libPods-RN56BoilerplateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7593F3B8CA701A9E68015085 /* libPods-RN56BoilerplateTests.a */; };
 		4CAC17FA74EB4757B0A949BD /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 908B1EB6F6D44F23B7AE919C /* SimpleLineIcons.ttf */; };
 		524B57C537534F53981B9668 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C37CD768FDEE4F59B82759AF /* FontAwesome5_Solid.ttf */; };
 		52790053C443427AA00EBAD0 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7707707141A49AE90E75BAC /* Feather.ttf */; };
 		59B9954DEA27424990CE162B /* ReactNativeNavigationTests.xctest in Frameworks */ = {isa = PBXBuildFile; fileRef = 38927BE17DA341DDA47B89CB /* ReactNativeNavigationTests.xctest */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		6E05330FA8B448DEB411F3D0 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E5DC2E9E03E49BF86324823 /* FontAwesome5_Regular.ttf */; };
-		72B2DEF1F6944F3096DD667A /* libPods-RN56Boilerplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 87759C0FD78E60B2153C3704 /* libPods-RN56Boilerplate.a */; };
 		7C30B18B5CCE49C2A6828D50 /* libRNVectorIcons-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43AAF183E03B4DB68EFACCF2 /* libRNVectorIcons-tvOS.a */; };
 		7CBAA9B6483B429AA9E13A5A /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 44972BAB02D240F18E2D071A /* libRNVectorIcons.a */; };
 		7F2191F4176C68DA5F92137E /* libPods-RN56Boilerplate-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3328A112972EBD29CB9EA80 /* libPods-RN56Boilerplate-tvOSTests.a */; };
@@ -435,7 +433,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */,
-				3AFD7549AA8B6F1D79C36DB3 /* libPods-RN56BoilerplateTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -459,7 +456,6 @@
 				85729BEDA4754BD2A03A9AF1 /* libReactNativeNavigation.a in Frameworks */,
 				59B9954DEA27424990CE162B /* ReactNativeNavigationTests.xctest in Frameworks */,
 				7CBAA9B6483B429AA9E13A5A /* libRNVectorIcons.a in Frameworks */,
-				72B2DEF1F6944F3096DD667A /* libPods-RN56Boilerplate.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
