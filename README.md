@@ -1,6 +1,6 @@
 # RN56-Boilerplate
 
-This is a boilerplate for React Native with React Native Navigation and React Redux. It let you focus on your app, instead starting everything from scratch everytime you need to build an app. :)
+This is a boilerplate for React Native with React Native Navigation v2 and React Redux. It let you focus on your app, instead starting everything from scratch everytime you need to build an app. :)
 
 ### Code Structure
 
